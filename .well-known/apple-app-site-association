@@ -1,14 +1,11 @@
 {
-    "appclips": {
-        "apps": ["com.team5app.Reset.Clip"]
-    },
     "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "com.team5app.Reset",
-                "paths": ["*"]
-            }
-        ]
+      "apps": [],
+      "details": [
+        {
+          "appID": "VQV56HG824.com.team5app.Reset.Clip",
+          "paths": [ "/profile/*" ]
+        }
+      ]
     }
 }
