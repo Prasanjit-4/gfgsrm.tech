@@ -1,0 +1,14 @@
+{
+    "appclips": {
+        "apps": ["com.team5app.Reset.Clip"]
+    },
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "com.team5app.Reset",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
